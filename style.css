@@ -98,7 +98,7 @@ button:active{
 .account{
     position:relative;
     top:-10px;
-    left:220px;
+    left:245px;
     cursor:pointer;
     color:rgb(43, 40, 40);
     text-decoration:none;
@@ -120,8 +120,8 @@ button:active{
 }
 .account{
     position:relative;
-    top:45px;
-    left:160px;
+    top:55px;
+    left:175px;
 }
 .page h2{
     text-align:center;
@@ -147,7 +147,7 @@ button:active{
 .account{
     position:relative;
     top:70px;
-    left:260px;
+    left:270px;
 }
 .page h2{
     font-size:40px;
